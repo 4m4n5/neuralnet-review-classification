@@ -1,6 +1,6 @@
 # neuralnet-review-classification
 
-This explores different traditional ML and Deep Learning Algorithms on IMDB sentiment analysis data set. 
+This explores different traditional ML and Deep Learning Algorithms for sentiment analysis on IMDB movie review data set. 
 This can be seen as a tutorial on how to solve NLP problems using Random Forest and Word2Vec and comparision in performance.
 
 The Dataset and the Word Vector algorithm has been taken from the following publication.
